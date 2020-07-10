@@ -39,7 +39,7 @@ componentDidMount(){
         }
       });
 
-      console.log(this.state);
+     // console.log(this.state);
 
     });
    }else{
